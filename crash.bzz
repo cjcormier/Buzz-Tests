@@ -1,0 +1,15 @@
+function init() {
+  crash = "string" + 0  
+}
+
+function step() {
+
+}
+
+function reset() {
+
+}
+
+function destroy() {
+
+}

@@ -1,0 +1,17 @@
+function init() {
+	log("pre-debug id: ", id)
+	debug(id)
+	log("post-debug id: ", id) 
+}
+
+function step() {
+
+}
+
+function reset() {
+
+}
+
+function destroy() {
+
+}
